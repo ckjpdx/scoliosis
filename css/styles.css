@@ -1,0 +1,6 @@
+.mybadge {
+  width: 100%
+}
+h1 span.badge-secondary {
+  background: -webkit-linear-gradient(#eee, #333);
+}
